@@ -16,7 +16,6 @@ Este projeto consiste na modelagem, organização e análise de uma base de dado
 - Consultas SQL com JOIN, GROUP BY, CTE, HAVING, ORDER BY, LIMIT, entre outras
 - Automatização da inserção de dados com Python e PyMySQL
 - Identificação e correção de duplicatas
-- Escrita de queries SQL para extração de insights
 
 
 ## 💾 Fonte dos Dados
