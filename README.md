@@ -27,5 +27,5 @@ Este projeto tem como objetivo analisar dados sobre raças de cães utilizando m
 1. Crie um banco de dados no MySQL
 2. Rode os scripts SQL de criação de tabelas
 3. Execute os notebooks e scripts para preencher as tabelas
-4. Explore os insights no arquivo `Insight
+4. Explore os insights no arquivo `Insights.md`
 
