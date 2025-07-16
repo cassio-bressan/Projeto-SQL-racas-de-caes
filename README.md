@@ -31,7 +31,6 @@ O banco foi modelado com base na tabela bruta do Kaggle, utilizando boas prátic
 
 🔗 [Visualizar Modelo Relacional no DrawSQL](https://drawsql.app/teams/alone-team-2/diagrams/projeto-racas-caes)
 
-> 🔒 Por motivos de segurança, a senha de conexão ao banco de dados foi removida dos arquivos de script.
 
 
 ## 📊 Exemplos de perguntas respondidas
@@ -46,4 +45,5 @@ O banco foi modelado com base na tabela bruta do Kaggle, utilizando boas prátic
 2. Rode os scripts SQL de criação de tabelas
 3. Execute os notebooks e scripts para preencher as tabelas
 4. Explore os insights no arquivo `Insights.md`
+ > 🔒 Por motivos de segurança, a senha de conexão ao banco de dados foi removida dos arquivos de script.
 
