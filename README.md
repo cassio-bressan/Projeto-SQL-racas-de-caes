@@ -1,6 +1,6 @@
 # # 🐶 Análise de Raças de Cães com SQL
 
-Este projeto tem como objetivo analisar dados sobre raças de cães utilizando modelagem relacional, consultas SQL e extração de insights. 
+Este projeto consiste na modelagem, organização e análise de uma base de dados contendo informações sobre raças de cães. Ele abrange a criação de tabelas normalizadas, preenchimento com dados brutos e extração de insights por meio de queries SQL. Foi desenvolvido com fins de aprendizado e portfólio.
 
 ## 📁 Estrutura do Projeto
 
