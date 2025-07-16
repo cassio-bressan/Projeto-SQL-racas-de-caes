@@ -9,12 +9,32 @@ Este projeto consiste na modelagem, organização e análise de uma base de dado
 - `Insights/` – Análises e descobertas baseadas nas queries SQL
 - `Schema_CTest.ipynb` – Verificação da estrutura das tabelas no MySQL
 
-## 🧠 Técnicas utilizadas
+## 🧠 Técnicas Utilizadas
 
-- Modelagem relacional e normalização
-- Criação e uso de chaves primárias/estrangeiras
-- Consultas SQL com `JOIN`, `GROUP BY`, `CTEs`, `HAVING`, etc.
-- Uso de `PyMySQL` para automatização do preenchimento de dados
+- Modelagem relacional e normalização de dados
+- Criação e uso de chaves primárias e estrangeiras
+- Consultas SQL com JOIN, GROUP BY, CTE, HAVING, ORDER BY, LIMIT, entre outras
+- Automatização da inserção de dados com Python e PyMySQL
+- Identificação e correção de duplicatas
+- Escrita de queries SQL para extração de insights
+
+---
+
+## 💾 Fonte dos Dados
+
+Os dados utilizados neste projeto foram extraídos da seguinte base no Kaggle:
+
+🔗 [Dog Breed Characteristics - Kaggle](https://www.kaggle.com/datasets/joebeachcapital/dog-breed-characteristics)
+
+---
+
+## 🧩 Modelagem do Banco de Dados
+
+O banco foi modelado com base na tabela bruta do Kaggle, utilizando boas práticas de normalização. A modelagem foi feita visualmente no DrawSQL.
+
+🔗 [Visualizar Modelo Relacional no DrawSQL](https://drawsql.app/exemplo-link-publico)
+
+> 🔒 Por motivos de segurança, a senha de conexão ao banco de dados foi removida dos arquivos de script.
 
 ## 📊 Exemplos de perguntas respondidas
 
