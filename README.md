@@ -19,8 +19,8 @@ Este projeto tem como objetivo analisar dados sobre raças de cães utilizando m
 ## 📊 Exemplos de perguntas respondidas
 
 - Qual é a doença mais comum entre os cães?
-- Quais traços são mais comuns em raças pequenas?
-- Quais raças compartilham os mesmos problemas de saúde e traços?
+- Quais traços de personalidade são mais comuns em raças pequenas?
+- Quais raças compartilham os mesmos problemas de saúde e traços de personalidade?
 
 ## 🚀 Como executar
 
