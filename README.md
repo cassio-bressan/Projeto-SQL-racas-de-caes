@@ -18,23 +18,22 @@ Este projeto consiste na modelagem, organização e análise de uma base de dado
 - Identificação e correção de duplicatas
 - Escrita de queries SQL para extração de insights
 
----
 
 ## 💾 Fonte dos Dados
 
 Os dados utilizados neste projeto foram extraídos da seguinte base no Kaggle:
 
-🔗 [Dog Breed Characteristics - Kaggle](https://www.kaggle.com/datasets/joebeachcapital/dog-breed-characteristics)
+🔗 [Dog Breed Characteristics - Kaggle](https://www.kaggle.com/datasets/marshuu/dog-breeds)
 
----
 
 ## 🧩 Modelagem do Banco de Dados
 
 O banco foi modelado com base na tabela bruta do Kaggle, utilizando boas práticas de normalização. A modelagem foi feita visualmente no DrawSQL.
 
-🔗 [Visualizar Modelo Relacional no DrawSQL](https://drawsql.app/exemplo-link-publico)
+🔗 [Visualizar Modelo Relacional no DrawSQL](https://drawsql.app/teams/alone-team-2/diagrams/projeto-racas-caes)
 
 > 🔒 Por motivos de segurança, a senha de conexão ao banco de dados foi removida dos arquivos de script.
+
 
 ## 📊 Exemplos de perguntas respondidas
 
