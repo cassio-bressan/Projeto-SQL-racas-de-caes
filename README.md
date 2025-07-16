@@ -47,3 +47,7 @@ O banco foi modelado com base na tabela bruta do Kaggle, utilizando boas prátic
 4. Explore os insights no arquivo `Insights.md`
  > 🔒 Por motivos de segurança, a senha de conexão ao banco de dados foi removida dos arquivos de script.
 
+## 🤖 Apoio com IA
+
+Este projeto foi idealizado, construído e codificado por mim, com apoio pontual da Inteligência Artificial (ChatGPT) para revisão de queries SQL, boas práticas de modelagem relacional, sugestões técnicas e organização final do projeto.
+
