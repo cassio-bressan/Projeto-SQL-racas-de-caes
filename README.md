@@ -1,4 +1,4 @@
-# # 🐶 Raças de Cães - Projeto SQL
+# # 🐶 Análise de Raças de Cães com SQL
 
 Este projeto tem como objetivo analisar dados sobre raças de cães utilizando modelagem relacional, consultas SQL e extração de insights. 
 
