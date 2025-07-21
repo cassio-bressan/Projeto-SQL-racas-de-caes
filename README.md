@@ -45,6 +45,9 @@ O banco foi modelado com base na tabela bruta do Kaggle, utilizando boas prátic
 2. Rode os scripts SQL de criação de tabelas
 3. Execute os notebooks e scripts para preencher as tabelas
 4. Explore os insights no arquivo `Insights.md`
+5. Para visualizar os insights com melhor formatação no VS Code:
+    - Clique com o botão direito no arquivo `Insights.md`
+    - Selecione **"Open Preview"** (ou "Abrir visualização")
  > 🔒 Por motivos de segurança, a senha de conexão ao banco de dados foi removida dos arquivos de script.
 
 ## 🤖 Apoio com IA

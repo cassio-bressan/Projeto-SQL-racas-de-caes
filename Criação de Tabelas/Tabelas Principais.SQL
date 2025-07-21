@@ -3,7 +3,7 @@
 -- Autor: Cássio Bressan Nunes
 -- Data: 04/07/2025
 -- ========================
--- Tabela de raças de cães
+-- Tabela de raças de cães.
 CREATE TABLE breeds ( 
     breed_id INT AUTO_INCREMENT PRIMARY KEY,
     breed_name VARCHAR(100),
@@ -28,7 +28,7 @@ CREATE TABLE character_traits (
 	trait_id INT AUTO_INCREMENT PRIMARY KEY,
 	trait VARCHAR(100)
 );
--- Tabela de problemas de saúde
+-- Tabela de problemas de saúde.
 CREATE TABLE health_problems ( 
 	problem_id INT AUTO_INCREMENT PRIMARY KEY,
     problem VARCHAR(100)

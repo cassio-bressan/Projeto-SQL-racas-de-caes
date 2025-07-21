@@ -1,5 +1,5 @@
 -- ========================
--- SCRIPT: PREENCHIMENTO DAS TABELAS PRINCIPAIS
+-- SCRIPT: PREENCHIMENTO DAS TABELAS PRINCIPAIS (MANUAL)
 -- Autor: Cássio Bressan Nunes
 -- Data: 07/07/2025
 -- ========================
