@@ -140,9 +140,10 @@ GROUP BY eye_color;
 ### ❓Pergunta 7: Quais cores de pelagem são mais comuns em cães? Quais as mais raras? A que raça pertencem as mais raras?
 **Consulta SQL utilizada:**
 ```sql
+-- Query para a pelagem mais comum.
 SELECT fcs.fur_color, COUNT(fcs.fur_color) AS fur_color_count
 FROM fur_colors fcs
-JOIN breed_fur_color bfd ON bfd.fur_color_id = fcs.fur_color_id
+JOIN breed_fur_color bfd ON bfd.fur_color_id = fcs.fur_color_id 
 JOIN breeds ON breeds.breed_id = bfd.breed_id
 GROUP BY fur_color
 ORDER BY fur_color_count DESC
@@ -160,6 +161,7 @@ FROM rare_fur_colors rfc
 JOIN breed_fur_color bfd ON bfd.fur_color_id = rfc.fur_color_id
 JOIN breeds b ON b.breed_id = bfd.breed_id
 ORDER BY rfc.fur_color;
+-- Query para pela as pelagens mais raras e raças pertencentes.
 ```
 🧠 **Descoberta:**
 
